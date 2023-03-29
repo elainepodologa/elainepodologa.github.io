@@ -76,7 +76,7 @@ header {
 
 .li-nav:hover {
     background-color: var(--cor2);
-    transition: 1s;
+    transition: .5s ease;
 }
 
 i {
@@ -105,5 +105,5 @@ footer {
 }
 
 footer > a:hover {
-    background-color: var(--cor2);
+    font-weight: bolder;
 }
